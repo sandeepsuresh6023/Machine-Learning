@@ -1,0 +1,8 @@
+Enter the training set filename
+iris-training.txt
+Enter the test set filename
+iris-test.txt
+2 stands for Iris-setosa     4 stands for Iris-versicolor    6 stands for Iris-virginica
+[2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 4. 4. 4. 4. 4. 4. 4. 4. 6. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6. 6.]
+Test set accuracy  0.9866666666666667
+
