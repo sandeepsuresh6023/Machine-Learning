@@ -5,3 +5,5 @@
 'VGG16&VGG19_train.py' contains the code for an intermediate model developed. Details given in report.
 
 'augment.py' contains the code used to augment the datset to create more images.
+
+'Trained Models.txt' contains the links to download the trained models.
